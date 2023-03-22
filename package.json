@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@phosphor-icons/react": "^2.0.5",
+    "firebase": "^9.18.0",
+    "phosphor-react": "^1.4.1",
+    "sass": "^1.59.3"
+  }
+}
